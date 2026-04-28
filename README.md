@@ -1,13 +1,13 @@
-# The Clover Project Private Keys
+# Project Sakura Private Keys
 
 # Usage
 
 ```bash
-git clone https://github.com/nekoshirro/android_vendor_priv-keys.git -b clover vendor/clover-priv/keys
+git clone https://github.com/nekoshirro/android_vendor_priv-keys.git -b sakura vendor/sakura-priv/keys
 ```
 
 ```bash
-cd vendor/clover-priv/keys
+cd vendor/sakura-priv/keys
 ```
 
 ```
